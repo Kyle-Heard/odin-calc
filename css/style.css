@@ -1,5 +1,4 @@
 * {
-    font-size: xx-large;
     box-sizing: border-box;
 }
 
@@ -58,6 +57,7 @@ button.calcButton {
     border-radius: 100px;
     border: 1px solid black;
     box-shadow: 4px 4px 5px 0 black;
+    padding: 2px;
 }
 
 button.clear {
